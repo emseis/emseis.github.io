@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d6ced5;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  header {
+    background-color: #e1d0d1;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #90a9b0;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #e1d0d1;
+    padding: 10px;
+    text-align: center;
+  }
+
+ 
